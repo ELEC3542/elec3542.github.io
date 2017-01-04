@@ -1,0 +1,10 @@
+repository: ELEC3542/elec3542.github.io
+
+title: ELEC3542
+description: Advanced Programming and Application Development
+
+theme: jekyll-theme-cayman
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
