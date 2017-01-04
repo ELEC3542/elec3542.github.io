@@ -33,13 +33,13 @@ _ELEC3542 Advanced Programming and Application Development_ is offered in 2<sup>
 
 ### Enrollment
 
-Students who wish to enroll in this course need to either have passed, or taking any of the following courses in this semester (i.e. co-requisite):
+Students who wish to enroll in this course have to either concurrently taking, or have already passed, a computer programming course other than ENGG1111, COMP1117 and other courses taught in MATLAB. Accepted courses include but not limited to:
 
-- ELEC2543 Object-Oriented Programming and Data Structures _or_
-- COMP2119 Introduction to Data Structures and Algorithms _or_
+- ELEC2543 Object-Oriented Programming and Data Structures
+- COMP2119 Introduction to Data Structures and Algorithms
 - COMP2396 Object-Oriented Programming and Java
 
-Please contact us if you are interested in taking this course, so that we can help you with the enrollment issues.
+The current pre-requisite condition on HKU Portal does not describe the requirement precisely due to various reasons. Please contact us if you are interested in taking this course but have problem enrolling.
 
 ### Staff
 
