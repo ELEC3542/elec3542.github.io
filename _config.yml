@@ -3,6 +3,8 @@ repository: ELEC3542/elec3542.github.io
 title: ELEC3542
 description: Advanced Programming and Application Development
 
+google_analytics: UA-90045125-1
+
 theme: jekyll-theme-cayman
 
 timezone: Asia/Hong_Kong
