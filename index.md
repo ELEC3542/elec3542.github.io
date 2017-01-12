@@ -1,3 +1,7 @@
+---
+title: ELEC3542
+---
+
 ## Introduction
 
 <script async class="speakerdeck-embed" data-id="54112c4a6cef45b39237bc1fac08cdb2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
