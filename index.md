@@ -23,7 +23,7 @@
 
 ## Course Information
 
-_ELEC3542 Advanced Programming and Application Development_ is offered in 2<sup>nd</sup> semester, 2016–2017. The first lesson is scheduled on January 16, 2017 (Monday).
+_ELEC3542 Advanced Programming and Application Development_ is a Group E (Computer Systems) advanced course offered in 2<sup>nd</sup> semester, 2016–2017. The first lesson is scheduled on January 16, 2017 (Monday).
 
 ### Time & Location
 
