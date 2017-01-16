@@ -31,8 +31,8 @@ _ELEC3542 Advanced Programming and Application Development_ is a Group E (Comput
 
 ### Time & Location
 
-- Mondays 11:30–12:30 at CB103 (EEE PC Lab)
-- Thursdays 10:30–12:30 at CB103 (EEE PC Lab)
+- Mondays 11:30–12:20 at CB103 (EEE PC Lab)
+- Thursdays 10:30–12:20 at CB103 (EEE PC Lab)
 - _Video "lectures" available 24/7 on [Open edX course website](https://learning.hku.hk/catalog/course/advanced-programming-and-application-development/)_
 
 ### Enrollment
