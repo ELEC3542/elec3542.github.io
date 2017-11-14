@@ -18,16 +18,13 @@ title: ELEC3542
 
 - Explore the latest Internet of Things (IoT) trends with [Raspberry Pi](https://www.raspberrypi.org)
 - Consolidate programming and networking knowledge through simple but fun exercises
-
-![](/images/socket_pong.gif?align=center)
-
 - Build interesting projects to demonstrate your skills
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/9VwqDicLZe8" frameborder="0" allowfullscreen></iframe></div>
 
 ## Course Information
 
-_ELEC3542 Advanced Programming and Application Development_ is a Group E (Computer Systems) advanced course offered in 2<sup>nd</sup> semester, 2016–2017. The first lesson is scheduled on January 16, 2017 (Monday).
+_ELEC3542 Advanced Programming and Application Development_ is a Group E (Computer Systems) advanced course offered in 2<sup>nd</sup> semester, 2017–2018. The first lesson is scheduled on January 15, 2018 (Monday).
 
 ### Time & Location
 
@@ -47,5 +44,8 @@ The current pre-requisite condition on HKU Portal does not describe the requirem
 
 ### Staff
 
-- **Lecturer:** Dr. KS Lui `kslui [at] eee.hku.hk`
-- **TA:** Mr. Macro Yau `cwyau [at] eee.hku.hk`
+- **Lecturers**
+	- Dr. KS Lui `kslui [at] eee.hku.hk`
+	- Dr. Vincent Tam `vtam [at] eee.hku.hk`
+- **Teaching Assistant**
+	- [Mr. Macro Yau](https://www.eee.hku.hk/~cwyau/) `cwyau [at] eee.hku.hk`
