@@ -4,7 +4,7 @@ title: ELEC3542
 
 ## Introduction
 
-<script async class="speakerdeck-embed" data-id="54112c4a6cef45b39237bc1fac08cdb2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="6296c091d92a4570b144231f923b6068" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## What's Special About ELEC3542?
 
@@ -30,7 +30,7 @@ _ELEC3542 Advanced Programming and Application Development_ is a Group E (Comput
 
 - Mondays 11:30–12:20 at CB103 (EEE PC Lab)
 - Thursdays 10:30–12:20 at CB103 (EEE PC Lab)
-- _Video "lectures" available 24/7 on [Open edX course website](https://learning.hku.hk/catalog/course/advanced-programming-and-application-development/)_
+- _Video "lectures" available 24/7 on [Open edX course website](https://learning.hku.hk/catalog/course/elec3542/)_
 
 ### Enrollment
 
