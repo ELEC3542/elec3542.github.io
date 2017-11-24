@@ -14,13 +14,15 @@ title: ELEC3542
 - Watch short video lectures to understand the basics
 - Learn practical programming and development skills during weekly labs
 
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/9VwqDicLZe8" frameborder="0" allowfullscreen></iframe></div>
+
 ### Hands-on Experience
 
 - Explore the latest Internet of Things (IoT) trends with [Raspberry Pi](https://www.raspberrypi.org)
 - Consolidate programming and networking knowledge through simple but fun exercises
 - Build interesting projects to demonstrate your skills
 
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/9VwqDicLZe8" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/?listType=playlist&list=PLwo0lint0z4JCtI4gel19Fg8so0Zwv-8l" frameborder="0" allowfullscreen></iframe></div>
 
 ## Course Information
 
