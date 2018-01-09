@@ -30,6 +30,8 @@ _ELEC3542 Advanced Programming and Application Development_ is a Group E (Comput
 
 ### Time & Location
 
+<span style="color:red">Please note that the first lecture on January 15 will be held at [MW103, Meng Wah Complex](http://www.les.hku.hk/teaching-space/mw103).</span>
+
 - Mondays 11:30–12:20 at CB103 (EEE PC Lab)
 - Thursdays 10:30–12:20 at CB103 (EEE PC Lab)
 - _Video "lectures" available 24/7 on [Open edX course website](https://learning.hku.hk/catalog/course/elec3542/)_
